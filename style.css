@@ -1,0 +1,195 @@
+body{
+    border: none;
+    margin: 0;
+    background-color: black;
+    text-align: center;
+}
+
+.jetbrains-mono-titl{
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 25;
+    font-style: normal;
+  }
+  .boldonse-regular {
+    font-family: "Boldonse", system-ui;
+    font-weight: 100;
+    font-style: normal;
+  }
+#image{
+    width: 100%;
+    height: 100px;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+  
+li{
+    padding-right: 25px;
+    padding-left: 10px;
+    margin-left: 15px;
+    padding-top: 12px;
+    display: inline-flex;
+    text-decoration: none;
+    font-family: "JetBrains Mono", monospace;
+    justify-content: center;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+
+}
+#array{
+    width:100%;
+    height: 125px;
+    padding-right: 0;
+    text-align: center;
+    align-content: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: "Boldonse", system-ui;
+    
+
+}
+
+#a-tag{
+    text-decoration: none;
+    color: black;
+}
+#a-tag1{
+    text-decoration: none;
+    color: black;
+}
+
+#header{
+    background: linear-gradient(to bottom, #ccffff 0%, #ffff66 100%);
+    width:100%;
+    height:6rem;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    align-content: center;
+}
+
+#welcome{
+    margin-left: 25%;
+color: black;
+size: 45px;
+font-family: "Boldonse", system-ui;
+font-weight: 100;
+font-style: normal;
+
+
+}
+#item-body{
+    margin-top: 40px;
+    width: 100%;
+    height: 400px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    
+}
+#book{
+    padding: 10px;
+    border: solid 2px;
+    border-color: aqua;
+    
+    width:11.5%;
+    height: 240px;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+#horror{
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    text-align: center;
+    align-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+
+
+}
+#min{
+    padding-left: 10px;
+
+}
+#hr_text{
+    padding-right: 25px;
+}
+#text{
+    color: bisque;
+    font-family: "JetBrains Mono", monospace;
+
+}
+#text-25{
+    color: bisque;
+    font-family: "JetBrains Mono", monospace;
+
+}
+
+#login{
+    width: 100%;
+    height: 300px;
+}
+#username{
+    margin-top: 15px;
+    padding: 9px;
+    font-family: monospace;
+    font-size: 19px;
+    
+}
+#labels{
+    margin: 15px;
+    color: white;
+    font-size: 19px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#email{
+    margin-top: 15px;
+    margin-right: 12px;
+    padding: 9px;
+    font-family: monospace;
+    font-size: 19px;
+
+}
+#password{
+    margin-top: 15px;
+    padding: 9px;
+    font-family: monospace;
+    font-size: 19px;
+    
+}
+#labels-1{
+    margin: 40px;
+    color: white;
+    font-size: 19px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#Submit{
+    margin-top: 25px;
+    margin-left: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 9px;
+    padding-bottom:9px ;
+    background-color: cornflowerblue;
+    color: white;
+    box-shadow: none;
+    border: none;
+    border-radius: 15px;
+}
+#register{
+    color: blueviolet;
+}
